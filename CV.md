@@ -15,7 +15,7 @@ Key Tasks:
    4. Survey new technology to improve existing products. e.g.
        - Develop a EmulatorDetect module to avoid repeating get coins in one device.
        - Develop a GestureControl module to protect our apps from robot in an interactive way.
-       - Use Google SafetyNet to detect ROOT devices.
+       - Use Google SafetyNet to detect ROOTED devices.
        - Try using Kotlin to develop Android projects.
    5. Product customer service
    
