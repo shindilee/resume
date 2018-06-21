@@ -1,2 +1,2 @@
-[CV](resume/CV.md)
-[Portfolio](resume/PORTFOLIO.md)
+# [CV](CV.md)
+# [Portfolio](PORTFOLIO.md)
