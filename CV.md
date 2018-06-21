@@ -34,5 +34,7 @@ Key Tasks:
 * VersionControl: svn, git
 
 ## EDUCATION
-**國立政治大學 資訊科學系 碩士 （2010年8月－2012年07月)**
+**National Chengchi University**\
+**Master of Science, Computer Science**
+
 
